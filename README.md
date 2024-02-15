@@ -4,30 +4,30 @@ An education company named X Education sells online courses to industry professi
 
 1. Steps Followed
 
-Reading Data 
+    Reading Data 
 
-Cleaning Data
+    Cleaning Data
 
-EDA
+    EDA
 
-Creating Dummy
+    Creating Dummy
 
-Splitting data into train and test set
+    Splitting data into train and test set
 
-Building Model
+    Building Model
 
-Making Predictions
+    Making Predictions
 
-Model Evaluation
+    Model Evaluation
 
-Precision- Recall
+    Precision- Recall
 
 
 
 2. Details of files given
 
-Lead Score Case Study notebook
+    Lead Score Case Study notebook
 
-Assignment Subjective Questions.pdf
+    Assignment Subjective Questions.pdf
 
-Summary.pdf
+    Summary.pdf
